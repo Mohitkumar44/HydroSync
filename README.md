@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HydroSync Innovations LLP — Official Web Platform
 
 > **Tagline:** Innovation for a Healthier Tomorrow  
@@ -107,3 +108,6 @@ As specified in the primary objective, **all external service dependencies are c
 - **Show/Hide Secret Controls:** Password masking for sensitive API keys.
 - **Export to `.env.production`:** One-click download of the complete environment file.
 - **Live Readiness Report:** Instant audit of which services are active, in simulation, or awaiting provider credentials.
+=======
+# HydroSync
+>>>>>>> 7c1e30923acc1366597aa91b0ea931e0c69d244f
