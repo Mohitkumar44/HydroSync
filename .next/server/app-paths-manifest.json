@@ -1,0 +1,8 @@
+{
+  "/team/page": "app/team/page.js",
+  "/blog/page": "app/blog/page.js",
+  "/gallery/page": "app/gallery/page.js",
+  "/forum/page": "app/forum/page.js",
+  "/setup/page": "app/setup/page.js",
+  "/apply/page": "app/apply/page.js"
+}
